@@ -1,0 +1,4 @@
+# PROGRAMS AND COMMANDS
+nmtui - network manager
+nmcli device status - status of network devices
+

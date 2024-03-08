@@ -1,0 +1,28 @@
+# script:
+
+#to check keybindings it is better to install program
+#sudo apt install xbindkeys
+#xbindkeys --defaults > /home/roman/.xbindkeysrc
+#xbindkeys -k
+
+#wallpapers
+sudo apt install feh
+
+#program to configure monitors
+sudo apt install arandr
+
+#set locale
+setxkbmap -layout us,ru
+
+# fonts for pannel
+mkdir ~/.fonts/
+cp *.ttf ~/.fonts/
+
+# program to change appearance
+sudo apt install lxappearance
+
+# give access to brightness without sudo
+sudo chmod +s /usr/bin/brightnessctl
+
+sudo apt install i3blocks
+sudo apt install pavucontrol
