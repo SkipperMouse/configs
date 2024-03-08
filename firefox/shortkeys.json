@@ -1,0 +1,82 @@
+[
+  {
+    "key": "j",
+    "action": "scrolldownmore",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "k",
+    "action": "scrollupmore",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "action": "closetab",
+    "key": "alt+w",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "action": "newtab",
+    "key": "alt+q",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "action": "prevtab",
+    "key": "h",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "l",
+    "action": "nexttab",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "action": "back",
+    "key": "b",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "action": "onlytab",
+    "key": "alt+x",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "action": "closelefttabs",
+    "key": "alt+z",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "alt+c",
+    "action": "closerighttabs",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  }
+]
