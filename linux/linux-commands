@@ -2,3 +2,5 @@
 nmtui - network manager
 nmcli device status - status of network devices
 
+# USEFUL COMMANDS
+acpi -b # battery status
