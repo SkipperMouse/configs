@@ -1,0 +1,11 @@
+#commands for switch gnome layout change:
+gsettings set org.gnome.desktop.wm.keybindings switch-input-source "['<Shift>Alt_L']"
+gsettings set org.gnome.desktop.wm.keybindings switch-input-source-backward "['<Alt>Shift_L']"
+gsettings get org.gnome.desktop.wm.keybindings switch-input-source
+
+
+# enable bluetooth by default
+sudo systemctl enable bluetooth
+
+# for bluetooth
+sudo pacman -Syu pipewire-pulse
